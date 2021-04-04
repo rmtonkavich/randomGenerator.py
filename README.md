@@ -1,2 +1,2 @@
 # randomGenerator.py
-A Random String Generator for using to fill a Database for testing or learning. A good tool for Sorts.
+A Random String Generator for using to fill a Database for testing or learning. A good tool for workingand testing the Various Sort Methods. The Generator is set up to generate 25,000 Names, first and last. You could use to fill a Database for learning SQL Methods. And for working with the Various sorts. Timing them for length of execution. The program is very simple and can easily be expanded.
